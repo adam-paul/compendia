@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Compendia Documentation
+email: notadampaul@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the documentation homepage for the project whose working
+  title is *Compendia*. Its development will be catalogued here, until
+  it is finished, if that ever happens. At that point, this will become
+  the working documentation for the resource.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  adam-paul
 
 # Build settings
 markdown: kramdown
