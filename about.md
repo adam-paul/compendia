@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Compendia (working title) is intended to be a web resource for statistics and data visualization
+of the four major league sports:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+* MLB
+* NBA
+* NFL
+* NHL
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This documentation currently serves as a build documentation, and eventually, if the build is
+ever finished, it will transition to the operational documentation for the Compendia resource.
