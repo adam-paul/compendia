@@ -15,3 +15,16 @@ would be accessed. So where is? I guess I have to get a domain name?
 
 But then what am I building first? A website with buttons? A statistics engine? A predictive
 algorithm?
+
+To start, I'm going to dredge up my old PHYS 555 project. In it, I did some data munging and
+statistical analysis and a tiny bit of machine learning on NHL data that I figured out how
+to pull from their JSON "API" (relevant data munging below):
+
+![NHL API](https://i.imgur.com/kiujlqq.png)
+
+This was a few years ago now, but it's pretty straightforward. All this really gets me
+is NHL team data in a nicely workable `pandas` dataframe, but it's a good template
+for any NHL data, at the player level or the season level as well. 
+
+After that, I was able to do all the usual Python tricks, which is as good a place as any
+to start this project.
