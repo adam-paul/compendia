@@ -27,4 +27,25 @@ is NHL team data in a nicely workable `pandas` dataframe, but it's a good templa
 for any NHL data, at the player level or the season level as well. 
 
 After that, I was able to do all the usual Python tricks, which is as good a place as any
-to start this project.
+to start this project. To give one tiny example, here is a plot I made to show the
+"statistical path" of the Stanley Cup-winning team in the 2000-2001 season (the
+Colorado Avalanche):
+
+![COL-statpath](https://i.imgur.com/W3ahDUm.png)
+
+Basically, each vertical tick along the *x*-axis is one of the team stats provided by
+the NHL API (with a few cleaned out, and a few bugs probably too). Every dot above it 
+represents a given team's value for that stat, normalized and mean-subtracted. If a
+team scores +1, they had the highest value for that stat in the given year, and a -1
+obviously then means they had the lowest value for that stat. 
+
+Why does this matter? Well, objectively it doesn't (what does?). But it's a sort of
+qualitative look at which stats might matter most for the Stanley Cup winner. Or
+at least the ones that mattered most in 2000-2001.
+
+It doesn't actually make a lot of sense, when you look a little closer, because a
+team would *want* to have the lowest value of a stat like, say, `losses`, and in fact we
+see here that Colorado was indeed the team with the fewest losses that season. So it
+might be more relevant to add some kind of sentiment classifier for each stat, inverting
+it if it's a "bad" stat to provide a more meaningful path. In that case, the best 
+possible outcome would simply be a straight line right across the top. 
