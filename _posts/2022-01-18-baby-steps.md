@@ -49,3 +49,7 @@ see here that Colorado was indeed the team with the fewest losses that season. S
 might be more relevant to add some kind of sentiment classifier for each stat, inverting
 it if it's a "bad" stat to provide a more meaningful path. In that case, the best 
 possible outcome would simply be a straight line right across the top. 
+
+But would that team then necessarily win the Stanley Cup that year? Obviously that's
+not a given. They'd probably have the highest betting odds heading into the playoffs,
+though.
