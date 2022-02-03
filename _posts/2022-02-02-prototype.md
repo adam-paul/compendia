@@ -56,3 +56,8 @@ point to this so people understand that it's a website where you click buttons t
 But I don't want *just me* to be deciding what stats or visualizations you see when you click
 the buttons. I want a community of enthusiasts doing that, something like they are doing
 for Wikipedia already. 
+
+EDIT: I forgot about [Our World in Data](https://ourworldindata.org/)! This is much closer to
+what I am talking about. I discovered this resource many years after my ideas were initially
+conceived, but long before I actually started working on anything. If my result is even a
+tenth of what they've accomplished I would consider it a resounding success.
