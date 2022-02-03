@@ -18,8 +18,8 @@ four major league sports:
 * NHL
 
 Now, full disclosure, I've never paid much attention to the first three, and even the
-NHL I only got back into around 2015 after a hiatus since around a year after NHL 2002 
-was released and I stopped playing it. That maybe makes me not the best man for this job,
+NHL I only got back into around 2015 after a hiatus that had lasted since a year after NHL 
+2002 was released and I stopped playing it. That maybe makes me not the best man for this job,
 but since I still don't see anyone else making this resource, and I want to use it, I'm 
 just going to steamroll ahead. 
 
@@ -32,7 +32,7 @@ for that, or any of the leagues' own statistics pages (e.g., the
 2. The data is either totally inaccessible and/or proprietary, or else it lacks any kind of
       visualization
 3. There is no interactivity, no community, no engagement, etc., and users have little to no
-      input into what they're seeing on the dashboard in front of them. 
+      input into what they're seeing on the dashboard in front of them
 
 To make an analogy again with Wikipedia and information, the current state of data and
 statistics resources on the web is a bit like the way it used to be for information. Data
@@ -44,7 +44,7 @@ small way aiming to be the first shot in a salvo that does the same for data.
 Again, I'm probably not the man for the job, here. I don't really have the skills or the time
 left in my life to be breaking that kind of new ground. But I do want to engage with sports
 statistics and data visualizations in way that is more fun, more intuitive, and has a
-community around it, so I'm building this. Here's a disgustingly ugly prototype of what
+community around it, so I'm building this. Here's a disgustingly rudimentary prototype of what
 I mean:
 
 [Very ugly, maybe the link is even broken or times out once my free trial expires](https://preview.uxpin.com/f6604640448bf3ee6a6f28977a55985c36887161)
