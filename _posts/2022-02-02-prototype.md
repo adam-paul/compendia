@@ -41,7 +41,7 @@ the door-to-door encyclopedia salesmen of yore. This sort of exclusive access wa
 by the likes of Wikipedia and the modern internet. A resource like Compendia is in some
 small way aiming to be the first shot in a salvo that does the same for data.
 
-Again, I'm probably not the man for the job, here. I don't really have the skills or the time
+Again, I'm probably not the man for the job, here. I don't really have the skills nor the time
 left in my life to be breaking that kind of new ground. In any case, sports data is pretty much
 all open-source to begin with, so it's not a great example of that grander idea. But I do want 
 to engage with sports statistics and the corresponding data visualizations in a way that is 
