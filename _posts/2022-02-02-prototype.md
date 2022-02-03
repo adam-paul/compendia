@@ -42,10 +42,11 @@ by the likes of Wikipedia and the modern internet. A resource like Compendia is 
 small way aiming to be the first shot in a salvo that does the same for data.
 
 Again, I'm probably not the man for the job, here. I don't really have the skills or the time
-left in my life to be breaking that kind of new ground. But I do want to engage with sports
-statistics and data visualizations in way that is more fun, more intuitive, and has a
-community around it, so I'm building this. Here's a disgustingly rudimentary prototype of what
-I mean:
+left in my life to be breaking that kind of new ground. In any case, sports data is pretty much
+all open-source to begin with, so it's not a great example of that grander idea. But I do want 
+to engage with sports statistics and the corresponding data visualizations in a way that is 
+more fun, more intuitive, and has a community around it, so I'm building this. Here's a 
+disgustingly rudimentary prototype of what I mean:
 
 [Very ugly, maybe the link is even broken or times out once my free trial expires](https://preview.uxpin.com/f6604640448bf3ee6a6f28977a55985c36887161)
 
