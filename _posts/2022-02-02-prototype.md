@@ -48,7 +48,7 @@ to engage with sports statistics and the corresponding data visualizations in a 
 more fun, more intuitive, and has a community around it, so I'm building this. Here's a 
 disgustingly rudimentary prototype of what I mean:
 
-[Very ugly, maybe the link is even broken or times out once my free trial expires](https://preview.uxpin.com/f6604640448bf3ee6a6f28977a55985c36887161)
+[Very ugly, maybe the link is even broken or times out once my free trial expires, I dunno, I built it in 20 minutes using some kind of web-based prototyping platform I'd never used before](https://preview.uxpin.com/f6604640448bf3ee6a6f28977a55985c36887161)
 
 There's almost no need for a prototype of something this basic at this stage, as it amounts
 to essentially: click button, see stats. But I have to start somewhere, and I can at least
