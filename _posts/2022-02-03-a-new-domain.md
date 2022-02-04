@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A new domain"
-date:   2022-02-02 13:38:34 -0800
+date:   2022-02-03 13:38:34 -0800
 categories: documentation
 ---
 
