@@ -19,8 +19,8 @@ trials use *calendar months*, not 30 days. Great.
 So, I've got 2 weeks or so to build out the prototype, a domain name secured, and now pretty
 much a blank slate. I'll have to start doing the heavy lifting pretty quick here:
 
-* Actually building a website, linking it to whatever engines or databases you can
-  cobble together and then publishing it to your domain.
+* Actually building a website, linking it to whatever engines or databases I can
+  cobble together and then publishing it to the domain.
 * Learning (or perhaps re-learning) a bunch of statistics and data visualization techniques.
 * Diving into sports statistics and data more seriously.
 
