@@ -5,7 +5,7 @@ date:   2022-02-03 13:38:34 -0800
 categories: documentation
 ---
 
-A few logistics hurdles have presented themselves, primary among them the difficulty securing
+A few logistical hurdles have presented themselves, primary among them the difficulty securing
 any kind of domain name that included the words *compendia* or *compendium*. The name is not
 particularly important to me, but since I've already written it in a bunch of places it's just
 easier to stick with it. In the end, I was able to purchase 
