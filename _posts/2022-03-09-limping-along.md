@@ -17,14 +17,15 @@ look something like this:
 
 where the domain, in this case, is [the-compendium.org](https://the-compendium.org), the codebase will
 be the actual web development code that I write and store on this GitHub repository, and the host is
-presumably just GoDaddy? Since that's where I purchased my domain? 
+presumably just GoDaddy? Since that's where I purchased my domain? Well, I think that's right. 
 
-Well, I think that's right. So, I'll be "developing" the website in the `website` branch of this repo,
-and I'll just try to test it out manually in a personal browser as I develop it, since the stand-in I
-built in that template editor is currently occupying the domain. My understanding is that when I actually
-want the code from the `website` directory/branch to be accessed by the domain, I'll have to start paying
-for hosting and then do something with the DNS settings or some file called `CNAME` or something like
-that so the files are pointed to properly and the real website goes live. 
+So, I'll be "developing" the website in the `website` branch of the titular repo (as in 
+[this one](https://github.com/adam-paul/compendia)), and I'll just try to test it out manually in a 
+personal browser as I develop it, since the stand-in I built in that template editor is currently 
+occupying the domain. My understanding is that when I actually want the code from the `website` 
+directory/branch to be accessed by the domain, I'll have to start paying for hosting and then do 
+something with the DNS settings or some file called `CNAME` or something like that so the files 
+are pointed to properly and the real website goes live. 
 
 I feel like if I had the patience or the time to dedicate myself to this it should just take a few
 days, but more likely it'll be a few months. Wish me luck! 
