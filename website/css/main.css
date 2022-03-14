@@ -1,6 +1,7 @@
 .column {
   float: left;
   width: 25%;
+  height: 100vh;
 }
 
 /* Clear floats after the columns */
@@ -8,4 +9,10 @@
   content: "";
   display: table;
   clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
