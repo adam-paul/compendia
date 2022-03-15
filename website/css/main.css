@@ -4,6 +4,11 @@
   height: 100vh;
 }
 
+.column:hover {
+  opacity: 0.75;
+  -webkit-transition: all 0.2s ease-in-out;
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
