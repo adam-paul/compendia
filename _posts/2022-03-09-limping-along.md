@@ -19,7 +19,7 @@ where the domain, in this case, is [the-compendium.org](https://the-compendium.o
 be the actual web development code that I write and store on this GitHub repository, and the host is
 presumably just GoDaddy? Since that's where I purchased my domain? Well, I think that's right. 
 
-So, I'll be "developing" the website in the `website` branch of the titular repo (as in 
+So, I'll be "developing" the website in the `webdev` branch of the titular repo (as in 
 [this one](https://github.com/adam-paul/compendia)), and I'll just try to test it out manually in a 
 personal browser as I develop it, since the stand-in I built in that template editor is currently 
 occupying the domain. My understanding is that when I actually want the code from the `website` 
