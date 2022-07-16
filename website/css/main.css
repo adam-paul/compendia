@@ -21,6 +21,11 @@ body, html {
   clear: both;
 }
 
+.logo {
+  max-width: 90%;
+  max-height: 87vh;
+}
+
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
