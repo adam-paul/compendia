@@ -1,17 +1,22 @@
 body, html {
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 
 .column {
   float: left;
   width: 25%;
   height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-transition: all 0.2s ease-in-out;
 }
 
 .column:hover {
   opacity: 0.75;
-  -webkit-transition: all 0.2s ease-in-out;
+  transform: scale(1.05);
 }
 
 /* Clear floats after the columns */
